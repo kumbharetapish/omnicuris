@@ -1,0 +1,10 @@
+body {
+  box-sizing: border-box;
+}
+.moduleSection {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  height: 600px;
+  box-sizing: border-box;
+}
